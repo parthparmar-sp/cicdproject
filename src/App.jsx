@@ -12,7 +12,7 @@ export default function App() {
         fontFamily: "Arial",
       }}
     >
-      <h1>My First CI/CD Project 🚀</h1>
+      <h1>Feature Branch Demo  🚀</h1>
       <p>GitHub Actions + Vercel Deployment</p>
 
       <button

@@ -4,6 +4,12 @@ on:
   push:
     branches:
       - main
+      - staging
+
+  pull_request:
+    branches:
+      - staging
+      - main
 
 jobs:
   build:
